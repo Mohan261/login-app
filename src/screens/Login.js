@@ -12,7 +12,7 @@ const Login = () => {
     let find = users.find((list) => email === list.email);
     if (find) {
       if (password == find.password) {
-        nav("/login/home");
+        nav("/login-app/home");
       } else {
         alert("Enter the Correct Password");
       }
