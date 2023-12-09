@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Arjun",
+      "dob": "16-11-2000",
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Mahesh",
+      "dob": "15-01-2000",
+      "role": "Web Developer"
+    },
+    {
+      "id": 3,
+      "name": "Arun",
+      "dob": "06-10-2000",
+      "role": "Software Engineer"
+    },
+    {
+      "id": 4,
+      "name": "Karthik",
+      "dob": "26-01-2000",
+      "role": "Web Developer"
+    },
+    {
+      "id": 5,
+      "name": "Mohan",
+      "dob": "26-06-2000",
+      "role": "Software Engineer"
+    }
+  ]
+}

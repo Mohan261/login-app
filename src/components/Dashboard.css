@@ -1,0 +1,72 @@
+.dashboard {
+  width: 80%;
+  margin: 0 auto;
+}
+.title {
+  background: #1a2c2c99 0% 0% no-repeat padding-box;
+  mix-blend-mode: normal;
+  text-align: center;
+  color: #ffffffb3;
+  padding: 8px 12px;
+  border-radius: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.productivity {
+  background: #5e5e5e82 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 4px 0px #00000040;
+  border-radius: 16px;
+  padding: 45px 0;
+  padding-top: 80px;
+  position: relative;
+}
+.card {
+  margin-bottom: 12px;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+}
+.para-1 {
+  color: #ffffff;
+  font-size: 12px;
+}
+.para-2 {
+  color: #36a546;
+  font-size: 12px;
+}
+.bar {
+  height: 8px;
+  width: 90%;
+  background-color: transparent;
+  margin: 6px auto;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.progress {
+  background-color: #36a546;
+  height: 10px;
+  border-radius: 16px;
+}
+.p-1 {
+  width: 2%;
+}
+.p-2 {
+  width: 61%;
+}
+.p-3 {
+  width: 81%;
+}
+.p-4 {
+  width: 62%;
+}
+.p-5 {
+  width: 59%;
+}
+.p-6 {
+  width: 65%;
+}
